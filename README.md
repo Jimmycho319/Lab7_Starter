@@ -1,1 +1,2 @@
-# Lab 7 - Starter
+Jimmy Cho
+https://jimmycho319.github.io/Lab7_Starter/
